@@ -12,7 +12,7 @@
 -->
 
 ### 🌱 I’m currently learning  
-**AI/ML**, **Streamlit**
+**AI/ML**,**OpenCV**, **Streamlit**
 
 ### 👯 I’m looking to collaborate on  
 **Innovative and impactful projects** that blend **AI**, **frontend magic**, and **real-world problem-solving**
