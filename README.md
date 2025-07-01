@@ -6,9 +6,10 @@
 </p>
 
 ---
-
+<!--
 ### 🔭 I’m currently working on  
 **AI Interview Coach**, a smart assistant that helps users practice and evaluate job interview responses.
+-->
 
 ### 🌱 I’m currently learning  
 **AI/ML**, **Streamlit**
