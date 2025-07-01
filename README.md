@@ -60,11 +60,11 @@
 </p>
 
 <!-- Optional fallback if streak graph fails -->
-<!--
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=snehawalilkar07&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=snehawalilkar07&theme=tokyonight" alt="Sneha's GitHub Streak" />
 </p>
--->
+
 
 
 <!--
